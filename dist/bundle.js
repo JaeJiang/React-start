@@ -27443,6 +27443,9 @@ function component () {
 
 document.body.appendChild(component());
 
+
+console.log(1)
+
 /***/ }),
 /* 3 */
 /***/ (function(module, exports) {

@@ -1,0 +1,27 @@
+{
+  "name": "React-start",
+  "version": "1.0.0",
+  "description": "Learn React to do something",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeJiang/React-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeJiang/React-start/issues"
+  },
+  "homepage": "https://github.com/JaeJiang/React-start#readme"
+}
